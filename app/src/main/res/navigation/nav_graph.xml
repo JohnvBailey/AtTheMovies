@@ -24,7 +24,7 @@
     android:label="fragment_actors"
     tools:layout="@layout/fragment_actors">
     <argument
-      android:name="movie"
+      android:name="movie_id"
       app:argType="long"
       android:defaultValue="0L"/>
   </fragment>
